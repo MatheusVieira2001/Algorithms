@@ -14,6 +14,7 @@ Crie um algoritmo que aproxime a integral definida de uma função em um interva
   <tr>
     <td align="center">
       <a href="http://github.com/MatheusVieira2001">
+        Matheus Vieira
       </a>
     </td>
   </tr>
