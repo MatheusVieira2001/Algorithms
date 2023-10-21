@@ -1,4 +1,8 @@
-public class Main {
+/**
+ *
+ * @author Matheus Vieira
+ */
+public class IntegracaoNumerica {
 
     public static void main(String[] args) {
         double a = 0.0; // Limite inferior
