@@ -1,10 +1,13 @@
-<h1 align="center">:file_cabinet: Desafio</h1>
+<h1 align="center">:file_cabinet: QuickSort</h1>
 
 ## :memo: Descrição
-Crie um algoritmo que aproxime a integral definida de uma função em um intervalo específico usando o método do Trapézio. O método do Trapézio é uma técnica numérica para calcular integrais definidas.
+O QuickSort é um algoritmo eficiente que utiliza a estratégia de dividir para conquistar. 
 
 ## :books: Funcionalidades
-* Algoritmo que aproxima a integral definida
+* O QuickSort funciona da seguinte maneira:
+* Divisão: O array é dividido em sub-arrays menores baseados em um elemento chamado de pivô.
+* Ordenação Recursiva: Cada sub-array é então ordenado recursivamente.
+* Combinação: Os sub-arrays ordenados são combinados para formar o array final.
 
 ## :wrench: Tecnologias utilizadas
 * JAVA;
