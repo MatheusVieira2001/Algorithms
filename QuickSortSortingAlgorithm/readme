@@ -1,8 +1,0 @@
-O QuickSort é um algoritmo eficiente que utiliza a estratégia de dividir para conquistar. 
-
-Como Funciona
-O QuickSort funciona da seguinte maneira:
-
-Divisão: O array é dividido em sub-arrays menores baseados em um elemento chamado de pivô.
-Ordenação Recursiva: Cada sub-array é então ordenado recursivamente.
-Combinação: Os sub-arrays ordenados são combinados para formar o array final.
